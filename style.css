@@ -1,0 +1,54 @@
+#s1{
+background-color: #c44dc4;
+}
+
+#s2{
+background-color: rgb(238, 243, 248);
+border-radius: 120px;
+text-align: center;
+}
+
+#s3{
+color:blue
+}
+
+#s4{
+background-color: rgb(255, 165, 0);
+border-radius: 100px;
+text-align: center;
+border-width: 0px;
+}
+
+#s5{ 
+background-color: rgb(227, 228, 229);
+border-radius: 100px;
+text-align: center;
+border-width: 0px;
+}
+
+#s6{
+background-color: rgb(66, 206, 80);
+border-radius: 100px;
+text-align: center;
+border-width: 0px;
+}
+
+#s7{
+    color:blue
+}
+
+#s8{ 
+background-color: rgb(66, 206, 80);
+border-radius: 100px;
+text-align: center;
+border-width: 0px;
+}
+
+#s9{
+    color:rgb(229, 168, 13)
+}
+
+#s10{
+    text-align: center;
+    color:blue
+}
